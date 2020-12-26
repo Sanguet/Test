@@ -1,5 +1,11 @@
 Prueba numero 1
 
+<<<<<<< HEAD
 Funciona 2
 
 Con exitoss
+=======
+Funciona re que te bien
+
+Con exitossssss
+>>>>>>> refs/remotes/origin/master
