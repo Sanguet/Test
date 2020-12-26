@@ -1,11 +1,3 @@
-Prueba numero 1
+Prueba numero 2
 
-<<<<<<< HEAD
-Funciona 2
-
-Con exitoss
-=======
-Funciona re que te bien
-
-Con exitossssss
->>>>>>> refs/remotes/origin/master
+Esta es una linda historia
